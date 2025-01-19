@@ -17,6 +17,8 @@ The so will decide the ranking of ownership .
 
 ## Q registry
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0agOylizE1D0q_ik4pPsX7KiW7rKNx7LFZTpcFQktzBbeeQ/viewform?embedded=true" width="640" height="373" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 ## Email Q
 
 Grant (Alexander) Miller 
